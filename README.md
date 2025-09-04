@@ -8,7 +8,7 @@ Seguridad y control sobre cómo se accede y modifica la información.
 
 Ejemplo:
 En vez de acceder directamente a edad, usamos getEdad() y setEdad() para validarla.
----------------------------------------
+
 
 ## Abstracción
 
@@ -37,6 +37,7 @@ Es la capacidad que tienen las clases hijas de redefinir métodos heredados para
 
  Beneficio:
 Permite que un mismo método (saludar()) haga cosas distintas según la clase.
+
 
 
 
