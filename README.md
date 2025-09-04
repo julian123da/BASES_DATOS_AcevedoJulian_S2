@@ -47,6 +47,36 @@ Por ejemplo, el paradigma cientifico, es un principio,
 teoria o conocimiento originado de la investigacion de un ambito especifico,
 y que servira de referencia para futuras investigaciones.
 
+## -JVM: 
+Java virtual machine.
+## -JRE:
+Java rutime enviroment.
+## -JDK:
+Java developer keep.
+
+-Sobreescribir un metodo cerrado. POLIFORMISMO
+
+## Tipo de dependencias funcionales
+--Completa
+                         A => B
+B tiene dependencia funcional compelta de A si depende funcionalmente de el pero de ningun subconjunto suyo.
+
+--Trival
+                        A -> B
+En este caso el atributo B es un conjunto de A.
+
+--Transitiva
+                        A -> B -> X, entonces A... -> X
+A, B y C son atributos o conjuntos de atributos s B depede funcionlamente de A y C depende funcionalmente de B, ae puede deducir que C depende transitivamente de A.
+
+## Introduccion de base de datos
+La BBDD o SGBD (Sistema gestores de base de datos) fueron creados para buscar problematicas que los sistemas de archivos tenian al momento y gestionar información.
+
+## 3 metodos para sobrellevar integridad de datos
+1.Data si sentido.
+2.Establecimiento de valor default.
+3.Generación de data mediante estadisticas matematica.
+
 
 
 
